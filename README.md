@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">
+  PonksSOL
+</h1>
 
-<!--
-**ponkssol/ponkssol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=900&lines=Web3+Execution+Engineer;Low-Latency+System+Architect;Solana+%2F+Rust+Infrastructure+Builder;MEV+%2F+Trading+Automation+Developer;On-Chain+Data+Streaming+Specialist" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧪 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,nodejs,ts,js,postgres,redis,docker,linux,git,nginx" />
+</p>
+
+---
+# 🧬 ABOUT ME
+
+- ⚙️ Web3 Engineer focused on **execution-layer systems**
+- ⚡ Building **ultra-low latency trading bots & automation engines**
+- ⛓ Specializing in **Solana, Rust, MEV systems, RPC optimization**
+- 🧠 Backend architecture using **Node.js, TypeScript, Redis, PostgreSQL**
+- 🚀 Obsessed with **concurrency, performance tuning, and system design**
+
+---
+# 🌐 LIVE EXECUTION FLOW (ANIMATED)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🧠 3D WEB3 DASHBOARD 
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ponkssol&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=20" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponkssol&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=20" height="180em"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ponkssol&theme=highcontrast&hide_border=true" />
+
+</p>
+
+---
+
+# 📊 ON-CHAIN ACTIVITY GRAPH (REALTIME FEEL)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ponkssol&theme=react-dark&bg_color=0d1117&hide_border=true&line=00ff9f&point=00ff9f" />
+</p> 
+
+--- 
+
+<p align="center">
+⚗️ Turning latency into advantage. Turning code into execution power.
+</p>
