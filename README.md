@@ -24,19 +24,13 @@
 - 🚀 Obsessed with **concurrency, performance tuning, and system design**
 
 ---
-# 🌐 LIVE EXECUTION FLOW (ANIMATED)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" />
-</p>
+# 🌐 LIVE Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
-# 🧠 3D WEB3 DASHBOARD 
 
 <p align="center">
 
