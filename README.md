@@ -15,14 +15,6 @@
 </p>
 
 ---
-# 🧬 ABOUT ME
-
-- ⚙️ Web3 Engineer focused on **execution-layer systems**
-- ⚡ Building **ultra-low latency trading bots & automation engines**
-- ⛓ Specializing in **Solana, Rust, MEV systems, RPC optimization**
-- 🧠 Backend architecture using **Node.js, TypeScript, Redis, PostgreSQL**
-- 🚀 Obsessed with **concurrency, performance tuning, and system design**
-
 ---
 # 🌐 LIVE Contribution
 
