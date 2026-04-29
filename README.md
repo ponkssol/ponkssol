@@ -9,15 +9,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,nodejs,ts,js,postgres,redis,docker,linux,git,nginx" />
 </p>
-
-# 🌐 LIVE Contribution
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ponkssol&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=20" height="180em"/>
@@ -31,8 +25,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ponkssol&theme=highcontrast&hide_border=true" />
 
 </p>
-
----
 
 # 📊 ON-CHAIN ACTIVITY GRAPH (REALTIME FEEL)
 
