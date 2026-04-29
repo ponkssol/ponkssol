@@ -6,16 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FF9F&center=true&vCenter=true&width=900&lines=Web3+Execution+Engineer;Low-Latency+System+Architect;Solana+%2F+Rust+Infrastructure+Builder;MEV+%2F+Trading+Automation+Developer;On-Chain+Data+Streaming+Specialist" />
 </p>
 
----
-
-# 🧪 TECH STACK
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,nodejs,ts,js,postgres,redis,docker,linux,git,nginx" />
 </p>
 
----
----
 # 🌐 LIVE Contribution
 
 <p align="center">
